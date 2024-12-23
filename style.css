@@ -503,23 +503,6 @@ body {
     height: auto;
     border-radius: 5px;
 }
-.project-button{
-    background-color: #6a5acd;
-    color: #fff;
-    border: none;
-    width: 50%;
-    text-align: center;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-.project-button:hover{
-    background-color: #ccccd3;
-    text-decoration: underline;
-    color: #6a5acd;
-
-}
 
 /* Responsive Design */
 @media (max-width: 768px) {
